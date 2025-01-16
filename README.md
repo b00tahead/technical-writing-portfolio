@@ -1,6 +1,6 @@
 # Technical Writing Portfolio
 ## Hey there! 👋
-I'm just starting my journey into technical writing, bring along my experience in frontend development and UX design. While I'm new to technical writing itself, I've spent years working with documentation as a developer and know the difference between docs that help and docs that make you want to throw your computer out of the window.
+I'm just starting my journey into technical writing, bringing along my experience in frontend development and UX design. While I'm new to technical writing itself, I've spent years working with documentation as a developer and know the difference between docs that help and docs that make you want to throw your computer out the window.
 
 ## Why technical writing?
 My background in web development taught me that great documentation is crucial. After years of using (and sometimes struggling with) various docs, I'm excited to help create the kind of clear, helpful guides I always wished I had when learning new tools.
